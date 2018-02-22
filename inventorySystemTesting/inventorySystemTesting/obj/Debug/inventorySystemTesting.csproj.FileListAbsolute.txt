@@ -1,0 +1,7 @@
+c:\users\firoja\desktop\FIROJA\unitTesting\inventorySystemTesting\inventorySystemTesting\bin\Debug\inventorySystemTesting.exe.config
+c:\users\firoja\desktop\FIROJA\unitTesting\inventorySystemTesting\inventorySystemTesting\bin\Debug\inventorySystemTesting.exe
+c:\users\firoja\desktop\FIROJA\unitTesting\inventorySystemTesting\inventorySystemTesting\bin\Debug\inventorySystemTesting.pdb
+c:\users\firoja\desktop\FIROJA\unitTesting\inventorySystemTesting\inventorySystemTesting\obj\Debug\inventorySystemTesting.csprojResolveAssemblyReference.cache
+c:\users\firoja\desktop\FIROJA\unitTesting\inventorySystemTesting\inventorySystemTesting\obj\Debug\inventorySystemTesting.csproj.CoreCompileInputs.cache
+c:\users\firoja\desktop\FIROJA\unitTesting\inventorySystemTesting\inventorySystemTesting\obj\Debug\inventorySystemTesting.exe
+c:\users\firoja\desktop\FIROJA\unitTesting\inventorySystemTesting\inventorySystemTesting\obj\Debug\inventorySystemTesting.pdb
